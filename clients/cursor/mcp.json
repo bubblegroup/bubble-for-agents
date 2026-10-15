@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "bubble": {
+      "type": "http",
+      "url": "https://mcp.bubble.io/mcp",
+      "auth": {
+        "CLIENT_ID": "https://mcp.bubble.io/oauth/clients/cursor.json"
+      }
+    }
+  }
+}
