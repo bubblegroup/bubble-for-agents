@@ -1,13 +1,13 @@
 {
   "name": "bubble",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Build and edit your Bubble apps with Grok: pages, elements, workflows, data types, and records, straight into your editor.",
   "author": {
     "name": "Bubble",
     "url": "https://bubble.io"
   },
   "homepage": "https://manual.bubble.io/help-guides/ai/bubble-mcp",
-  "license": "Proprietary",
+  "license": "Apache-2.0",
   "keywords": [
     "bubble.io",
     "bubble io",

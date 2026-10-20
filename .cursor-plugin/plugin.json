@@ -1,6 +1,6 @@
 {
   "name": "bubble",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "displayName": "Bubble",
   "description": "Build and edit your Bubble apps with Cursor: pages, elements, workflows, data types, and records.",
   "author": {
@@ -8,7 +8,7 @@
   },
   "homepage": "https://manual.bubble.io/help-guides/ai/bubble-mcp",
   "repository": "https://github.com/bubblegroup/bubble-for-agents",
-  "license": "Proprietary",
+  "license": "Apache-2.0",
   "logo": "assets/logo.svg",
   "keywords": [
     "bubble",

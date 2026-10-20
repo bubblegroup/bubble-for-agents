@@ -18,7 +18,14 @@ want it to work on. No API key is needed.
 - **Grok Build:** open `/plugin`, search for **Bubble**, and install.
 - **Cursor:** install **Bubble** from the Cursor Marketplace.
 
+## Using it in Cursor
+
+The plugin needs Cursor 3.10.17 or later. Once installed, the `bubble` MCP
+server is listed under **Customize**. Sign in when Cursor asks, then ask the
+agent about an app by name, for example "List the pages in my-app" or "Add a
+status field to the Order data type in my-app". There's nothing to configure.
+
 ## License
 
-Proprietary. Use of the hosted MCP server is governed by Bubble's terms of
-service.
+[Apache-2.0](LICENSE). The license doesn't cover the Bubble name or logos. Use
+of the hosted MCP server is governed by Bubble's terms of service.
